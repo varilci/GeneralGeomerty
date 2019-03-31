@@ -1,0 +1,7 @@
+- Libigl is a really lightweight and compact, compared to other alternatives, but since it is relatively new, it doesn't have detailed tutorials like other alternatives. Because of that, I had to spend more time to figure out the functions and headers from source code.
+
+-Their code styling guide is really useful (on libigl website).
+
+-Dijkstra's algorithm takes time for really big files (like 50k mesh ones) (around 50 minutes)
+
+-Template project on libigl's website is a life saver.

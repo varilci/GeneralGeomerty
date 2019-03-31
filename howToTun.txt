@@ -1,0 +1,9 @@
+1) Install libigl from: https://libigl.github.io/tutorial/ chapter1 explains the install process cleanly.
+
+2) unzip this project intosame directory with the libigl installation directory (they will have the same parent directory).
+
+3) Navigate to this project's build directory. To build the libigl binaries, type "cmake ..". To build this project, type "make".
+
+4) To run, simply execute "./example_bin MESH_FILE_NAME". They have to be in the same directory.
+
+NOTE: -Dijkstra's algorithm takes time for really big files (like 50k mesh ones) (around 50 minutes).
